@@ -1,0 +1,13 @@
+{
+    "firstName": "Hassan",
+    "lastName": "Ibrahim",
+    "mobileNumber": "00000000",
+    "countryCode": "SE",
+    "sourceApp": "Food Delivery For Andriod",
+    "isVerified": true,
+    "Address": {
+        "postalCode": "1111",
+        "city": "Stockholm",
+        "Street": "An awesome street"
+    }
+}
